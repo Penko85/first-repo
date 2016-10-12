@@ -1,9 +1,11 @@
-New text file
+﻿New text file
 
 New line
 
 Updating with Bash…
 
 Update with Tortoise...
+
+Second new line
 
 End line...
