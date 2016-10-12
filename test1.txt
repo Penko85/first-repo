@@ -4,5 +4,7 @@ New line
 
 Updating with Bash…
 
+Second new line
+
 xaxa
 
